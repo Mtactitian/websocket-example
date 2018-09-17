@@ -1,0 +1,13 @@
+.header
+{
+    font-size:26px;
+    margin:0 auto;
+    text-align:center;
+    color:#9F6905;
+    font-weight:lighter;
+    background-color:#f0f0f0;
+    height:50px;
+    line-height:50px;
+    border-bottom:1px solid #9F6905;
+    position: fixed;
+}
